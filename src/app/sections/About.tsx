@@ -26,7 +26,7 @@ const About = () => {
             <div 
               className="absolute inset-0 bg-cover bg-center"
               style={{ 
-                backgroundImage: "url('https://images.unsplash.com/photo-1549220167-afcce2a34d32?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80')"
+                backgroundImage: "url('/images/sonu-dp.jpg')"
               }}
             ></div>
           </div>
